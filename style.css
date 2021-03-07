@@ -112,6 +112,19 @@
   a:hover {
     color: rgb(45, 216, 165);
   }
+  .intro {
+    display: flex;
+    flex-direction: column;
+    height: 40%;
+    width: 100%;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: justify;
+    background-color: #fff;
+  }
+  .intro h1 {
+    text-align: center;
+  }
 
   /* Media queries - Responsive timeline on screens less than 600px wide */
   @media screen and (max-width: 600px) {
