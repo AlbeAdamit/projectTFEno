@@ -1,0 +1,13 @@
+.flexBox {
+    display: flex;
+    flex-direction: row;
+}
+.alimentaire {
+    background-color: #765d4a;
+}
+.nonAlimentaire {
+    background-color: #f5f5f5;
+}
+h1 {
+    text-align: center;
+}
